@@ -14,3 +14,5 @@
 1. [Z-lib](https://z-lib.is)
 2. [LibGen](https://libgen.is)
 3. [FreeMbook](https://freembook.com)
+4. [鸠摩](https://www.jiumodiary.com/)
+5. [读秀](http://www.duxiu.com/)
